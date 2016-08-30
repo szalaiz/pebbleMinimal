@@ -1,0 +1,28 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "szala",
+    "longName": "Minimal",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9]",
+                "compatibility": "2.7",
+                "file": "fonts/Roboto-Light.ttf",
+                "name": "ROBOTO_LIGHT_SUBSET_49",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Minimal",
+    "uuid": "5b0cdf2d-efc3-4b34-83f1-55a63cd9ce3a",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
